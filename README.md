@@ -5,14 +5,14 @@ Simple whatsapp bot | Reedited from whatsasena
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/1CjbIG8.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="ElsaMwol" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ElsaMwol" src="https://img.shields.io/badge/ElsaMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Ajnasajnas"><img title="Author" src="https://img.shields.io/badge/Author-Ajnasajnas/ElsaMwol?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hisham-muhammed</a> to make it public
+Project created by <a href="https://github.com/Ajnasajnas/ElsaMwol">𝘼 𝙅 𝙉 𝘼 𝙎</a> to make it public
     <br>
        | Â© |
         Reserved |
