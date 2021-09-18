@@ -53,7 +53,7 @@ Project created by <a href="https://github.com/Ajnasajnas/ElsaMwol">𝘼 𝙅 �
 Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/EKVj4VNByQkAIzapCt8qLl)
 
 ## 
   <h3 align="center">ðŸ“¢ Support Group 2:</h3>
